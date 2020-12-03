@@ -40,7 +40,6 @@ LEDは足が長い方、電子ブザーは＋の方をGPIOに接続してくだ�
 ＄ cd Robosys_Devicedriver/myled  
 ＄ sudo insmod myled.ko  
 ＄ sudo chmod 666 /dev/myled0  
-＄ echo a >> /dev/myled0  
 ```  
 ### 実行
 ```  

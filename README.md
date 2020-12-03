@@ -28,6 +28,7 @@ LED赤はGPIO25,Ground 39番ピン
 LED緑はGPIO22,Ground 9番ピン  
 電子ブザーはGPIO23,Ground 14番ピン    
 にそれぞれ繋がっています。  
+LEDは足が長い方、電子ブザーは＋の方をGPIOに接続してください。
 ラズベリーパイのピン番号は[こちら](https://www.raspberrypi.org/documentation/usage/gpio/README.md)を参照してください。
 
 ---

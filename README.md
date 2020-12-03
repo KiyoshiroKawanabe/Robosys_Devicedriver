@@ -23,7 +23,7 @@
 ---
 ## 回路  
 下の画像のように回路を組みました。  
-![1002793](https://user-images.githubusercontent.com/53420739/100973653-47b30c80-357e-11eb-9b09-fa11af3cbf2c.jpg)
+<img src="https://user-images.githubusercontent.com/53420739/100973653-47b30c80-357e-11eb-9b09-fa11af3cbf2c.jpg" width="320px">
 LED赤はGPIO25,Ground 39番ピン、LED緑はGPIO22,Ground 9番ピン、電子ブザーはGPIO23,Ground 14  
 にそれぞれ繋がっています。
 ラズベリーパイのピン番号は[こちら](https://www.raspberrypi.org/documentation/usage/gpio/README.md)を参照してください。

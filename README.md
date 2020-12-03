@@ -29,7 +29,7 @@
 ＄ sudo chmod 666 /dev/myled0  
 ＄ echo a >> /dev/myled0  
 ```  
-###実行
+### 実行
 ```  
 以下のコードを入力すると実行できます。  
 ＄echo a >> /dev/myled0  

@@ -21,7 +21,10 @@
 ![動画](https://user-images.githubusercontent.com/53420739/100972579-5dbfcd80-357c-11eb-821a-4fb5df8ad853.jpg)
 
 ---
-## 回路
+## 回路  
+下の画像のように回路を組んだ  
+![1002793](https://user-images.githubusercontent.com/53420739/100973653-47b30c80-357e-11eb-9b09-fa11af3cbf2c.jpg)
+
 
 ---
 ## ビルド、実行

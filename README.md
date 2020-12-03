@@ -36,6 +36,7 @@ LEDは足が長い方、電子ブザーは＋の方をGPIOに接続してくだ�
 ### ビルド
 ```
 ＄ git clone https://github.com/kiyoshirou-kawanabe/Robosys_Devicedriver.git  
+＄ make  
 ＄ cd Robosys_Devicedriver/myled  
 ＄ sudo insmod myled.ko  
 ＄ sudo chmod 666 /dev/myled0  

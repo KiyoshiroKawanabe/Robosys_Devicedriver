@@ -45,4 +45,4 @@ LED赤はGPIO25,Ground 39番ピン、LED緑はGPIO22,Ground 9番ピン、電子�
 ```
 ---
 ## ライセンス
-(https://www.raspberrypi.org/documentation/usage/gpio/README.md)
+[GNU General Public License v3.0](https://www.raspberrypi.org/documentation/usage/gpio/README.md)

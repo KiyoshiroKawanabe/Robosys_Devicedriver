@@ -20,11 +20,16 @@
 作成したデバイスドライバの動画は[こちら](https://youtu.be/p71gfhBcQgs)
 
 ---
-## ビルド
+## ビルド、実行
+### ビルド
 ```
-git clone https://github.com/kiyoshirou-kawanabe/Robosys_Devicedriver.git
-cd Robosys_Devicedriver/myled
-sudo insmod myled.ko
-sudo chmod 666 /dev/myled0
-echo a >> /dev/myled0
-```
+＄ git clone https://github.com/kiyoshirou-kawanabe/Robosys_Devicedriver.git  
+＄ cd Robosys_Devicedriver/myled  
+＄ sudo insmod myled.ko  
+＄ sudo chmod 666 /dev/myled0  
+＄ echo a >> /dev/myled0  
+```  
+###実行
+```  
+以下のコードを入力すると実行できます。  
+＄echo a >> /dev/myled0  

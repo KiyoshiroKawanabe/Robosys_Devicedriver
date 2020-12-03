@@ -48,4 +48,4 @@ LEDは足が長い方、電子ブザーは＋の方をGPIOに接続してくだ�
 ```
 ---
 ## ライセンス
-[GNU General Public License v3.0](https://www.raspberrypi.org/documentation/usage/gpio/README.md)
+[GNU General Public License v3.0](https://github.com/kiyoshirou-kawanabe/Robosys_Devicedriver/blob/main/COPYING)

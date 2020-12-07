@@ -4,7 +4,8 @@
 ---
 ## 内容 
 青信号の時音が鳴る歩行者信号をLEDを信号に見立てて作成しました。  
-[上田隆一教授が授業で作成したデバイスドライバ](https://github.com/ryuichiueda/robosys_device_drivers/blob/master/myled.c)を改変したものです。
+[上田隆一教授が授業で作成したデバイスドライバ](https://github.com/ryuichiueda/robosys_device_drivers/blob/master/myled.c)を改変したものです。  
+コードは佐藤暖君のを参考にしました。
 
 ---
 ## 使用したもの
